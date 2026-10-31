@@ -23,7 +23,7 @@ A professional portfolio presenting my research, software and hardware projects,
 ### Responsive previews
 
 <table>
-<tr><td width="30%" valign="top"><img src="docs/previews/mobile.png" alt="Mobile homepage showing the persistent contact bar" width="300"></td><td width="70%" valign="top"><img src="docs/previews/reports.png" alt="Reports page with internship documents and navigation"><p>The same five contact links remain accessible throughout the site. On mobile they sit in a fixed bar at the bottom of the screen.</p></td></tr>
+<tr><td width="30%" valign="top"><img src="docs/previews/mobile.png" alt="Mobile homepage showing the persistent contact bar" width="300"></td><td width="70%" valign="top"><img src="docs/previews/reports.png" alt="Reports page with internship documents and navigation"><p>The four external contact links remain accessible throughout the site. On mobile they sit in a fixed bar at the bottom of the screen.</p></td></tr>
 </table>
 
 These screenshots show the actual website. The document pages link to original LinkedIn attachments, which may require a LinkedIn sign-in.
